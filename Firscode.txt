@@ -3,4 +3,6 @@ take input from user
 and that values
 
 Process the UserData
+
+Create an Avatar For User
 submit data to the database
