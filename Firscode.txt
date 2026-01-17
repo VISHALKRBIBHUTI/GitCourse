@@ -6,3 +6,5 @@ Process the UserData
 
 Create an Avatar For User
 submit data to the database
+
+LogIn And LogOut
