@@ -1,3 +1,4 @@
 add user and remove User
 changes the role
 manage the database
+closing the connection
